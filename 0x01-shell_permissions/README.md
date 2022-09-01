@@ -12,3 +12,7 @@
 11. adds executive permission to all subordinates
 12. creates my_dir with permission 751
 13. changes group owner
+14. changes owner and group owner to specified names
+15. changes owner and group owner
+16. changes owner on a set precondition
+17. script that plays starwars
