@@ -19,5 +19,9 @@
 18. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19. Replace all characters A and c from input to Z and e respectively.
 20. Create a script that removes all letters c and C from input.
-21. Write a script that reverse its input.
-22. Write a script that displays all users and their home directories, sorted by users. 
+21. script that reverse its input.
+22. script that displays all users and their home directories, sorted by users.
+100. script that displays all users and their home directories, sorted by users.
+101. a command that finds all empty files and directories in the current directory and all sub-directories.
+102. Create a script that decodes acrostics that use the first letter of each line.   
+103. a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
